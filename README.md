@@ -1,5 +1,5 @@
 # NewsLetter-Front
  
-Extension : Live Server
+VSC-Extension : Live Server
 
-Startup : Start with Live Server. 
+Start: Starta med Live Server eller öppna varje fil för sig genom File explorer. 
